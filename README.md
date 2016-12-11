@@ -26,5 +26,4 @@ For postgresql, allow md5 authentication for local connections in pg_hba.conf
 3. Run executable jar file
 `java -jar target/vaadinspringdemo-0.0.1-SNAPSHOT.jar`
 
-4. Open the web browser of your choise to address
-http://localhost:8080
+4. Open the web browser of your choise to address [localhost:8080][http://localhost:8080]
